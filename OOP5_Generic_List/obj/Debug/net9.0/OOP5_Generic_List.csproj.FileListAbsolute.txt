@@ -1,0 +1,63 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.AssemblyReference.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Gen.BD170B6A.Up2Date
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\refint\OOP5_Generic_List.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\ref\OOP5_Generic_List.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.deps.json
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.runtimeconfig.json
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.exe
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.exe
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.deps.json
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.runtimeconfig.json
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.pdb
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.pdb
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.AssemblyReference.cache
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfoInputs.cache
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfo.cs
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.CoreCompileInputs.cache
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Gen.BD170B6A.Up2Date
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\refint\OOP5_Generic_List.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.pdb
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.genruntimeconfig.cache
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\ref\OOP5_Generic_List.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.deps.json
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.runtimeconfig.json
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.exe
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.exe
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.deps.json
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.runtimeconfig.json
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP5_Generic_List.pdb
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\bin\Debug\net9.0\OOP2.pdb
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.AssemblyReference.cache
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfoInputs.cache
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.AssemblyInfo.cs
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.csproj.CoreCompileInputs.cache
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Gen.BD170B6A.Up2Date
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\refint\OOP5_Generic_List.dll
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.pdb
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\OOP5_Generic_List.genruntimeconfig.cache
+C:\Users\giakh\OneDrive\Desktop\KY5\PRN212\BAITAP\chapter3+4\PRN212-SE1848\BTVN_chaptter3_4\PRN212-SE1848\OOP5_Generic_List\obj\Debug\net9.0\ref\OOP5_Generic_List.dll
