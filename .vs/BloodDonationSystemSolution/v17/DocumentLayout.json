@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SWT301\\BloodDonationSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E2FEE4-A6D2-41B1-9F69-3DA41278C83A}|BloodDonationSystem.Tests\\BloodDonationSystem.Tests.csproj|d:\\swt301\\blooddonationsystemsolution\\blooddonationsystem.tests\\donationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E2FEE4-A6D2-41B1-9F69-3DA41278C83A}|BloodDonationSystem.Tests\\BloodDonationSystem.Tests.csproj|solutionrelative:blooddonationsystem.tests\\donationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02937A-3F7D-4223-A597-10162422A467}|BloodDonationSystemSolution\\BloodDonationSystem.csproj|d:\\swt301\\blooddonationsystemsolution\\blooddonationsystemsolution\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02937A-3F7D-4223-A597-10162422A467}|BloodDonationSystemSolution\\BloodDonationSystem.csproj|solutionrelative:blooddonationsystemsolution\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02937A-3F7D-4223-A597-10162422A467}|BloodDonationSystemSolution\\BloodDonationSystem.csproj|d:\\swt301\\blooddonationsystemsolution\\blooddonationsystemsolution\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02937A-3F7D-4223-A597-10162422A467}|BloodDonationSystemSolution\\BloodDonationSystem.csproj|solutionrelative:blooddonationsystemsolution\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E2FEE4-A6D2-41B1-9F69-3DA41278C83A}|BloodDonationSystem.Tests\\BloodDonationSystem.Tests.csproj|d:\\swt301\\blooddonationsystemsolution\\blooddonationsystem.tests\\donortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E2FEE4-A6D2-41B1-9F69-3DA41278C83A}|BloodDonationSystem.Tests\\BloodDonationSystem.Tests.csproj|solutionrelative:blooddonationsystem.tests\\donortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02937A-3F7D-4223-A597-10162422A467}|BloodDonationSystemSolution\\BloodDonationSystem.csproj|d:\\swt301\\blooddonationsystemsolution\\blooddonationsystemsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02937A-3F7D-4223-A597-10162422A467}|BloodDonationSystemSolution\\BloodDonationSystem.csproj|solutionrelative:blooddonationsystemsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonationServiceTests.cs",
+              "DocumentMoniker": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystem.Tests\\DonationServiceTests.cs",
+              "RelativeDocumentMoniker": "BloodDonationSystem.Tests\\DonationServiceTests.cs",
+              "ToolTip": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystem.Tests\\DonationServiceTests.cs",
+              "RelativeToolTip": "BloodDonationSystem.Tests\\DonationServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:03:16.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonorTests.cs",
+              "DocumentMoniker": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystem.Tests\\DonorTests.cs",
+              "RelativeDocumentMoniker": "BloodDonationSystem.Tests\\DonorTests.cs",
+              "ToolTip": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystem.Tests\\DonorTests.cs",
+              "RelativeToolTip": "BloodDonationSystem.Tests\\DonorTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:01:04.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonationService.cs",
+              "DocumentMoniker": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystemSolution\\DonationService.cs",
+              "RelativeDocumentMoniker": "BloodDonationSystemSolution\\DonationService.cs",
+              "ToolTip": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystemSolution\\DonationService.cs",
+              "RelativeToolTip": "BloodDonationSystemSolution\\DonationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:59:16.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystemSolution\\Donor.cs",
+              "RelativeDocumentMoniker": "BloodDonationSystemSolution\\Donor.cs",
+              "ToolTip": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystemSolution\\Donor.cs",
+              "RelativeToolTip": "BloodDonationSystemSolution\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:57:07.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystemSolution\\Program.cs",
+              "RelativeDocumentMoniker": "BloodDonationSystemSolution\\Program.cs",
+              "ToolTip": "D:\\SWT301\\BloodDonationSystemSolution\\BloodDonationSystemSolution\\Program.cs",
+              "RelativeToolTip": "BloodDonationSystemSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:56:34.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

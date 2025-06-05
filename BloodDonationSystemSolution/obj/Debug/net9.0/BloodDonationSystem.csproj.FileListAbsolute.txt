@@ -1,0 +1,14 @@
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\bin\Debug\net9.0\BloodDonationSystem.exe
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\bin\Debug\net9.0\BloodDonationSystem.deps.json
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\bin\Debug\net9.0\BloodDonationSystem.runtimeconfig.json
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\bin\Debug\net9.0\BloodDonationSystem.dll
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\bin\Debug\net9.0\BloodDonationSystem.pdb
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\obj\Debug\net9.0\BloodDonationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\obj\Debug\net9.0\BloodDonationSystem.AssemblyInfoInputs.cache
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\obj\Debug\net9.0\BloodDonationSystem.AssemblyInfo.cs
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\obj\Debug\net9.0\BloodDonationSystem.csproj.CoreCompileInputs.cache
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\obj\Debug\net9.0\BloodDonationSystem.dll
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\obj\Debug\net9.0\refint\BloodDonationSystem.dll
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\obj\Debug\net9.0\BloodDonationSystem.pdb
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\obj\Debug\net9.0\BloodDonationSystem.genruntimeconfig.cache
+D:\SWT301\BloodDonationSystemSolution\BloodDonationSystemSolution\obj\Debug\net9.0\ref\BloodDonationSystem.dll
