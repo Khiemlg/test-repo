@@ -1,0 +1,38 @@
+﻿<Window x:Class="ControlCoBan1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlCoBan1"
+        mc:Ignorable="d"
+        Title="SE184337-Ly Gia Khiem" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <Label Target="{Binding ElementName=txtA}" FontSize="20">Hệ Số _a:</Label>
+        <TextBox Name="txtA" FontSize="20"></TextBox>
+        <Label Target="{Binding ElementName=txtB}" FontSize="20">Hệ Số _b:</Label>
+        <TextBox Name="txtB" FontSize="20"></TextBox>
+        <TextBlock FontSize="20">Kết Quả : </TextBlock>
+
+        <TextBlock Name ="tbKetQua" Background="Yellow" FontSize="20" >
+        </TextBlock>
+
+        <StackPanel Orientation="Horizontal">
+            <Button Name="btnTong" Width="100" Margin="10" Click="BtnTong_Click" >
+              <StackPanel Orientation="Horizontal">
+                <Image
+                    Source="/Images/sum.png"></Image>
+                <TextBlock Margin="5,0">Tổng</TextBlock>
+            </StackPanel>  
+            </Button>
+            <Button Name="btnThoat" Width="100" Margin="10"
+                    Click="BtnThoat_Click">
+                <StackPanel Orientation="Horizontal" Width="128">
+                    <Image
+                        Source="/Images/exit.png"></Image>
+                    <TextBlock Margin="5,0" Width="78">Thoát</TextBlock>
+                </StackPanel>
+            </Button>
+            
+        </StackPanel>
+    </StackPanel>
+</Window>
