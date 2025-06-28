@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE6ACA-DE92-4A5B-981D-3018C8514F31}|LyGiaKhiemWPF\\LyGiaKhiemWPF.csproj|c:\\users\\giakh\\onedrive\\desktop\\ky5\\prn212\\baitap\\ass01\\assignment_01_wpf_linq\\lygiakhiem_se1848_a01\\lygiakhiem_se1848_a01\\lygiakhiemwpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34BE6ACA-DE92-4A5B-981D-3018C8514F31}|LyGiaKhiemWPF\\LyGiaKhiemWPF.csproj|solutionrelative:lygiakhiemwpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE6ACA-DE92-4A5B-981D-3018C8514F31}|LyGiaKhiemWPF\\LyGiaKhiemWPF.csproj|c:\\users\\giakh\\onedrive\\desktop\\ky5\\prn212\\baitap\\ass01\\assignment_01_wpf_linq\\lygiakhiem_se1848_a01\\lygiakhiem_se1848_a01\\lygiakhiemwpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BE6ACA-DE92-4A5B-981D-3018C8514F31}|LyGiaKhiemWPF\\LyGiaKhiemWPF.csproj|solutionrelative:lygiakhiemwpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE6ACA-DE92-4A5B-981D-3018C8514F31}|LyGiaKhiemWPF\\LyGiaKhiemWPF.csproj|c:\\users\\giakh\\onedrive\\desktop\\ky5\\prn212\\baitap\\ass01\\assignment_01_wpf_linq\\lygiakhiem_se1848_a01\\lygiakhiem_se1848_a01\\lygiakhiemwpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34BE6ACA-DE92-4A5B-981D-3018C8514F31}|LyGiaKhiemWPF\\LyGiaKhiemWPF.csproj|solutionrelative:lygiakhiemwpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8860EF5-3068-4ADF-893A-ED45599389C0}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\giakh\\onedrive\\desktop\\ky5\\prn212\\baitap\\ass01\\assignment_01_wpf_linq\\lygiakhiem_se1848_a01\\lygiakhiem_se1848_a01\\dataaccessobjects\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8860EF5-3068-4ADF-893A-ED45599389C0}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8860EF5-3068-4ADF-893A-ED45599389C0}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\giakh\\onedrive\\desktop\\ky5\\prn212\\baitap\\ass01\\assignment_01_wpf_linq\\lygiakhiem_se1848_a01\\lygiakhiem_se1848_a01\\dataaccessobjects\\dao\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8860EF5-3068-4ADF-893A-ED45599389C0}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\dao\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\LyGiaKhiemWPF\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LyGiaKhiemWPF\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\LyGiaKhiemWPF\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "LyGiaKhiemWPF\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T08:09:32.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\LyGiaKhiemWPF\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LyGiaKhiemWPF\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\LyGiaKhiemWPF\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LyGiaKhiemWPF\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:09:35.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\LyGiaKhiemWPF\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LyGiaKhiemWPF\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\LyGiaKhiemWPF\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "LyGiaKhiemWPF\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T08:09:30.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\DataAccessObjects\\DAO\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DAO\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\DataAccessObjects\\DAO\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\DAO\\CustomerDAO.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:05:24.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\DataAccessObjects\\DAO\\EmployeeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DAO\\EmployeeDAO.cs",
+              "ToolTip": "C:\\Users\\giakh\\OneDrive\\Desktop\\KY5\\PRN212\\BAITAP\\ASS01\\Assignment_01_WPF_LINQ\\LyGiaKhiem_SE1848_A01\\LyGiaKhiem_SE1848_A01\\DataAccessObjects\\DAO\\EmployeeDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\DAO\\EmployeeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:05:29.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
